@@ -37,7 +37,7 @@ general.read tables.write orders.list orders.get orders.write customers.list cus
 | **11** | **`customers.accounts.read`** | **House Accounts** | **Corporate & VIP Billing:**<br>• Allows VIP diners and corporate accounts to charge their table orders directly to their house account balance in Foodics. |
 | **12** | **`coupons.read`** | **Coupons** | **Promo Codes:**<br>• Validates and applies Foodics promotional discount vouchers directly on the SareeTap checkout screen. |
 | **13** | **`operations.read`** | **Shifts, Tills, Business Days** | **Shift Guardrails & Register Reconciliation:**<br>• Checks if the branch and kitchen are currently open before accepting orders (eliminating "ghost orders" sent to closed kitchens).<br>• Powers daily shift and till reconciliation reports. |
-| **14** | **`inventory.transactions.read`** | **Inventory Levels & Counts** | **Live 86ing & Food Cost Analytics:**<br>• Reads real-time stock levels to automatically disable dishes (86ing) when ingredients run out before an order is placed.<br>• Tracks ingredient consumption and wastage. |
+
 
 ---
 
