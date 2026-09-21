@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Complete Scope String (Copy & Paste)
+## 1. Complete Scope String
 
 Use this exact space-separated string when registering the SareeTap application in the **Foodics Developer Console / Partner Request Form** and constructing the OAuth authorization URL:
 
