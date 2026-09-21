@@ -78,7 +78,6 @@ foodicsAuthUrl.searchParams.set(
     "customers.accounts.read",
     "coupons.read",
     "operations.read",
-    "inventory.transactions.read",
   ].join(" ")
 );
 ```
